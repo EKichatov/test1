@@ -21,6 +21,4 @@ int abc;
     return -1;
 }
 234
-56789
-
 @end
